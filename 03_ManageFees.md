@@ -1,6 +1,9 @@
 ﻿# Manage Fees
 
-![Manage Fees](images/manage-fees.jpeg)
+<p align="center">
+  <img src="images/manage-fees.jpeg" alt="Manage Fees UI" width="450"/>
+</p>
+<p align="center"><em>Figure: Manage Fees section in the app</em></p>
 
 The **Manage Fees** feature in the Q UP app helps doctors simplify, track, and manage their consultation charges. With just a few taps, doctors can update their OPD pricing and ensure patients are charged correctly during appointments.
 
