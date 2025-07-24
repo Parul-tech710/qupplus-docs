@@ -5,7 +5,7 @@ This repository contains feature-wise technical documentation for the **Q UP Plu
 Each `.md` file covers a specific in-app feature with:
 
 - Clear step-by-step instructions
-- Screenshots of app usage
+- Images of app usage
 - Use cases for doctors
 - User-facing benefits
 
@@ -17,4 +17,4 @@ Each `.md` file covers a specific in-app feature with:
 - `05_CancelSlot.md` – Cancel/reschedule OPD slots
 - `06_HealthBox.md` – Vitals monitoring with HealthBox
 
-🖼 Images are stored inside the `/images/` folder and referenced within each feature doc.
+🖼 Images are stored inside the `/Images/` folder and referenced within each feature doc.
