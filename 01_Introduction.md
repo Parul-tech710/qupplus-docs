@@ -1,6 +1,8 @@
 ﻿# Q UP Plus App Documentation
 
-![Aatmanirbhar App](images/aatmanirbhar-app.jpeg)
+<p align="center">
+  <img src="images/aatmanirbhar-app.jpeg" alt="Aatmanirbhar App" width="450"/>
+</p>
 
 ## Overview
 
