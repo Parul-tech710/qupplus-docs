@@ -1,6 +1,9 @@
 ﻿# Cancel Slot
 
-![Cancel Slot Screen](images/cancel-slot-step.jpeg)
+<p align="center">
+  <img src="images/cancel-slot-step.jpeg" alt="Cancel Slot UI" width="450"/>
+</p>
+<p align="center"><em>Figure: Cancel a Time Slot</em></p>
 
 ## What Is It?
 
