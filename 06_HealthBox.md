@@ -1,6 +1,9 @@
 ﻿# HealthBox – Vitals Monitoring
 
-![HealthBox Screen](images/healthbox-vitals-entry)
+<p align="center">
+  <img src="images/healthbox-vitals-entry.jpeg" alt="HealthBox UI" width="450"/>
+</p>
+<p align="center"><em>Figure: Vitals Entry in HealthBox</em></p>
 
 ## What Is HealthBox?
 
