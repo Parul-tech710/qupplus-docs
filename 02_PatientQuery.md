@@ -1,6 +1,9 @@
 ﻿# Patient Query
 
-![Patient Query](images/patient-query-ui.jpeg)
+<p align="center">
+  <img src="images/patient-query-ui.jpeg" alt="Patient Query UI" width="450"/>
+</p>
+<p align="center"><em>Figure: Patient Query Interface</em></p>
 
 ## What is Patient Query?
 
