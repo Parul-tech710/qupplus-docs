@@ -1,6 +1,9 @@
 ﻿# Share GYAN
 
-![Share GYAN](images/share-gyan.jpeg)
+<p align="center">
+  <img src="images/share-gyan.jpeg" alt="Share Gyan UI" width="450"/>
+</p>
+<p align="center"><em>Figure: Share Gyan feature screen</em></p>
 
 ## What is Share GYAN?
 
