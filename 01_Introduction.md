@@ -29,3 +29,8 @@ This documentation provides a detailed guide on each feature of the app and how 
 - Cancel Slot / Leave
 - HealthBox (Vitals, Tracker, Reports)
 
+<hr>
+
+<blockquote>
+  📌 <strong>Note:</strong> This repository was created in <strong>July 2025</strong> to showcase previously written app documentation on a public platform (GitHub).
+</blockquote>
